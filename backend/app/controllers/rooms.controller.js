@@ -26,15 +26,12 @@ const createRoomFileSync = () => {
   };
 
   const niceNames = [
-    "Nebuchadnezzar",
-    "Logos",
-    "Osiris",
-    "Icarus",
-    "Caduceus",
-    "Brahma",
-    "Novalis",
-    "Vigilant",
-    "Zion",
+    "CSC",
+    "DEV",
+    "GES",
+    "QUALIDADE",
+    "CONTRATOS",
+    "GPC",    
   ];
 
   for (const niceName of niceNames) {
