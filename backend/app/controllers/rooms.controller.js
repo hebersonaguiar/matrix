@@ -26,12 +26,24 @@ const createRoomFileSync = () => {
   };
 
   const niceNames = [
-    "CSC",
-    "DEV",
-    "GES",
-    "QUALIDADE",
-    "CONTRATOS",
-    "GPC",    
+    "HEPTA",
+    "HEPTA-CSC",
+    "GEPES",
+    "GEMAB",
+    "GENEC",
+    "GELTI",
+    "ASRIC",
+    "ASSEO",
+    "GEINE",
+    "GELIC",
+    "GEPDL",
+    "AUDINT",
+    "DGE",
+    "DPL",
+    "GAB",
+    "GEFIN",
+    "GEINF",
+    "PROJUR",
   ];
 
   for (const niceName of niceNames) {
